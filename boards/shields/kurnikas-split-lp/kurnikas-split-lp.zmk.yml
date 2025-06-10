@@ -1,0 +1,14 @@
+file_format: "1"
+id: kurnikas-split-lp
+name: KurnikasLP
+type: shield
+url: https://github.com/clegganator259/kurnikas-split-lp/
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
+siblings:
+  - kurnikas-split-lp-left-peripheral
+  - kurnikas-split-lp-right
+  - kurnikas-split-lp-dongle
+
