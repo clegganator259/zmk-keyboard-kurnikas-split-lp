@@ -3,7 +3,6 @@
 # Give your module a name
 name: zmk-keyboard-kurnikas-split-lp
 build:
-  kconfig: Kconfig
   settings:
     # Folder containing a "boards" folder (. = root)
     board_root: .
